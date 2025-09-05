@@ -3,7 +3,7 @@
 
 <!-- Animated GIF of a girl working on a computer -->
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Girl working on computer" width="300" height="200"/>
+  <img src="https://media.tenor.com/images/2332171326726785246/tenor.gif" alt="Girl working on computer" width="300" height="200"/>
 </div>
 
 <!-- Animated Text -->
@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Software+developer;Cyber+Mas+Solutions+Pvt+Ltd;Computer+Science+Undergraduate;Aspiring+AI+Engineer;Passionate+Developer" alt="Typing SVG" />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanika200721&label=Profile%20views&color=0e75b6&style=flat" alt="shanika200721" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cms-shanika&label=Profile%20views&color=0e75b6&style=flat" alt="cms-shanika" /> </p>
 
 - 📫 How to reach me **develsupport02@cyberMasit.com**
 - 📫 my portfolio **https://shanika200721.github.io/Portfolio/**
@@ -108,10 +108,10 @@
 </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanika200721&show_icons=true&locale=en&layout=compact" alt="shanika200721" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cms-shanika&show_icons=true&locale=en&layout=compact" alt="cms-shanika" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanika200721&show_icons=true&locale=en" alt="shanika200721" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cms-shanika&show_icons=true&locale=en" alt="cms-shanika" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanika200721&" alt="shanika200721" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cms-shanika&" alt="cms-shanika" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanika200721" alt="shanika200721" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cms-shanika" alt="cms-shanika" /></a> </p>
